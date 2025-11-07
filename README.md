@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ishra  
+#  Hi, I’m Ishra  
 I’m a full-stack software engineer with experience in **Go, Angular, cloud-based systems, and data driven applications**.  
 I enjoy turning real problems into working software whether that's a 3D simulation tool, a full-stack web app, or a machine learning project.
 
@@ -6,7 +6,7 @@ I’m currently working as a **Full-Stack Software Engineer at SLB (Schlumberger
 
 ---
 
-## 🔧 Tech Stack
+##Tech Stack
 
 **Languages:** Go · TypeScript · Python · C# · PHP · Java · R  
 **Frontend:** Angular · React · HTML/CSS  
@@ -16,7 +16,7 @@ I’m currently working as a **Full-Stack Software Engineer at SLB (Schlumberger
 
 ---
 
-## 📌 Projects
+## Projects
 
 ### EcoBridge – MERN Waste Management Platform  
 A full-stack MERN app that connects users and businesses for recycling and waste exchange.  
@@ -38,21 +38,21 @@ _(Code not public, part of work repo)_
 
 ---
 
-### 🟡 Email Spam Classifier (Data Analytics)  
+###  Email Spam Classifier (Data Analytics)  
 Compared ML models (Logistic Regression, KNN, Naive Bayes, Random Forest) for spam detection.  
 • Preprocessing, feature selection, class balancing (ROSE), model evaluation  
 **Tech:** Python · R · Data Analytics  
 
 ---
 
-### 🔴 Smart Fire & Smoke Detection System  
+### Smart Fire & Smoke Detection System  
 Built in SWI-Prolog with rule-based logic for automated alarm decisions.  
 • Custom predicates, dynamic rule updates, IoT-style input handling  
 **Tech:** Prolog · Expert Systems  
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Full-Stack Software Engineer — SLB, UK**  
 Go backend · Angular UI · JSON Schema · Cloud systems · Engineering simulations · Agile · Azure DevOps  
@@ -62,20 +62,20 @@ Taught C#, PHP, OOP, and full-stack fundamentals to students (including neurodiv
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 - Advanced Go patterns (concurrency, clean architecture)  
 - UI animation + frontend performance  
 - Better ways to combine math, visuals, and software  
 
 ---
 
-## 🎨 Outside of Code  
+##  Outside of Code  
 I love photography, drawing, and UI design — I share some work here:  
-📸 Instagram: **@snapit_by_ishra**
+ Instagram: **@snapit_by_ishra**
 
 ---
 
-## 📬 Let’s Connect  
+##  Let’s Connect  
 🔗 GitHub: https://github.com/iamisra-git  
 🔗 LinkedIn: https://linkedin.com/in/ishra-banu-270349241  
-📫 Email: ishra166@gmail.com  
+ Email: ishra166@gmail.com  
